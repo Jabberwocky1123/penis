@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: yourmod
+Specification-Vendor: yourname
+Specification-Version: 1
+Implementation-Title: corebibiska
+Implementation-Version: 1.0
+Implementation-Vendor: yourname
+Implementation-Timestamp: 2025-05-19T18:13:30+0700
+

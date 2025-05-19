@@ -1,0 +1,9 @@
+{
+  "corebibiska.guitar_play": {
+    "sounds": ["corebibiska:music/pigstep"],
+    "subtitle": "subtitles.corebibiska.guitar_play"
+  },
+  "spell.fireball": {"sounds": ["minecraft:item/firecharge/use"]},
+  "spell.teleport": {"sounds": ["minecraft:item/chorus_fruit/teleport"]},
+  "spell.ice": {"sounds": ["minecraft:block/glass/break1"]}
+}

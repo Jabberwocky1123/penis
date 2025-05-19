@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="corebibiska" # Уникальный ID вашего мода
+version="1.0"
+displayName="Habos Babos"
+authors="YourName"
+description='иди нахуй'
+
+# Если используете Curios (убедитесь что нет дубликатов)
+[[dependencies."corebibiska"]]
+modId="curios"
+mandatory=false
+versionRange="[5.14.1,)"
+ordering="AFTER"
+side="BOTH"
